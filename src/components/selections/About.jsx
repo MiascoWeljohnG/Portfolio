@@ -23,7 +23,7 @@ export const About = () => {
             <ul className=" text-gray-300 space-y-2">
               <li >
                 <strong  className="text-red-800">B.S. in Computer Science </strong>
-                <span className="italic text-amber-700">Undergraduate</span>
+                <span className="italic text-amber-700">Ongoing</span>
                 <br />
                 <span className="text-gray-700">Cavite State University, Bacoor City</span>
               </li>
@@ -48,7 +48,7 @@ export const About = () => {
             </ul>
           </div>
             <div className="p-5 rounded-2xl border-4 border-[#990000] bg-[#FFF8D4] text-center">
-            <h3 className="text-xl font-bold mb-4 text-amber-700">Proggramming Language I know</h3>
+            <h3 className="text-xl font-bold mb-4 text-amber-700">Programming Language I know</h3>
             <ul className=" text-gray-300 text-left space-y-2">
               <li><strong  className="text-red-800" >HTML</strong></li>
               <li><strong  className="text-red-800" >CSS</strong></li>
